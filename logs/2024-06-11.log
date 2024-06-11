@@ -1,0 +1,372 @@
+
+Started GET / for :: ::1 at Mon Jun 10 2024 20:31:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 17 ms Request ID: [d2a4806a-8e75-4b66-8fdc-63f91e6040a4]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 20:36:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 12 ms Request ID: [8ac906ed-8e17-4254-a79c-7b4692d2015b]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 20:36:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 3 ms Request ID: [b48a5224-3442-408f-bca8-e2375ffe01fd]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 20:36:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 9 ms Request ID: [e30435cc-fed6-424f-a5c8-14b10c960387]
+
+Started GET /favicon.ico for :: ::1 at Mon Jun 10 2024 20:36:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 6 ms Request ID: [d10e5bd3-6732-49d2-9592-c9489e41f3ea]
+
+Started GET / for :: ::ffff:127.0.0.1 at Mon Jun 10 2024 20:36:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [2b4c5169-8598-4a88-8a68-a077f72f638c]
+
+Started GET / for :: ::ffff:127.0.0.1 at Mon Jun 10 2024 20:36:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 3 ms Request ID: [630e2f3d-3373-494c-b30e-c00683342b1e]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 20:40:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 18 ms Request ID: [0dc79afa-866e-4bc4-bac1-d4a2a1fadc8b]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 20:41:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 17 ms Request ID: [87a06ff1-b255-44dd-860b-f88ed41e2a51]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 20:42:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [0d841a42-4520-406b-9366-e6e0adfad8ef]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 20:42:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 3 ms Request ID: [882f672c-b5c7-4385-95bd-57e18682aa20]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 20:43:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 20 ms Request ID: [56ce8025-82c5-443f-8aa3-b62cd4fd1da2]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 20:43:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [e26706a9-2988-4abf-b9a5-0ab432793988]
+
+Started POST /songs for :: ::ffff:127.0.0.1 at Mon Jun 10 2024 20:56:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 8 ms Request ID: [1a63e0a6-1931-4834-a4aa-d161e616293d]
+
+Started GET / for :: ::ffff:127.0.0.1 at Mon Jun 10 2024 20:57:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [0ad49190-7cac-4879-a837-fc4987704e8f]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 21:52:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 22 ms Request ID: [b58a9437-b5c7-4422-853c-8b51b85f0b6e]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 21:52:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [1c1a266a-dc95-42be-afa0-9da4eecb5b8c]
+
+Started GET /songs for :: ::1 at Mon Jun 10 2024 21:53:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 6 ms Request ID: [7c1f5077-19a9-4731-ac57-ba52481ab51c]
+
+Started GET /songs for :: ::1 at Mon Jun 10 2024 21:53:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 3 ms Request ID: [10485f29-96ba-4048-8ce9-027671604a58]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 21:55:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 304 message:  Time response: 13 ms Request ID: [57540ba3-be9c-4798-8475-d0a7a94b4f76]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 21:55:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 404 message:  Time response: 4 ms Request ID: [a6540f51-4385-4a86-906b-73d62a5f02c3]
+
+Started GET /songs for :: ::1 at Mon Jun 10 2024 21:56:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [f83dbd45-b4f5-406f-9904-ac8ffe1a753d]
+
+Started POST /songs for :: ::ffff:127.0.0.1 at Mon Jun 10 2024 22:24:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: [{"id":1,"name":"javier","artista":"jajajaj"}]
+Completed: 201 message:  Time response: 9 ms Request ID: [b1aa1c33-27a4-464c-a641-344d08358e93]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 23:19:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 18 ms Request ID: [54aa47e5-dfd9-42e8-8703-1447c1e24750]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:19:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [38043333-222c-494d-99ae-cb87d3c5fb42]
+
+Started POST /canciones for :: ::1 at Mon Jun 10 2024 23:19:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":8649,"titulo":"por el vino  me quede","artista":"miserables","tono":"RE"}
+Completed: 201 message:  Time response: 3 ms Request ID: [c6745966-80a0-46f0-961f-965fda28000b]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:19:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [f3058cbc-a1fa-41b7-ae52-5fbe8afb2b21]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 23:21:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 13 ms Request ID: [5e18cdaa-cfd7-4bba-b778-bb6e70ebc28a]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:21:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [01b7aec4-2440-4e37-8fee-e84752159ec2]
+
+Started POST /canciones for :: ::1 at Mon Jun 10 2024 23:22:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":1365,"titulo":"sueños de niñes","artista":"miserables","tono":"sol"}
+Completed: 201 message:  Time response: 5 ms Request ID: [c9a224c2-6c81-49d1-b176-5aaf17d06821]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:22:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [e12c6a82-ccd3-4bb2-bebb-ea795c2f3198]
+
+Started POST /canciones for :: ::1 at Mon Jun 10 2024 23:22:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":1942,"titulo":"thung life","artista":"2pac","tono":"RE"}
+Completed: 201 message:  Time response: 3 ms Request ID: [a2e2913d-543b-430b-a386-5fee5fd2767e]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:22:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [4f75093d-ca99-4d9b-bea7-b84bbf32c550]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 23:32:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 15 ms Request ID: [3605f111-42fa-42b0-ac84-0efe436c4b2d]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:32:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [56d5b39b-6447-4df2-9880-bf61860a35d8]
+
+Started PUT /canciones/1942 for :: ::1 at Mon Jun 10 2024 23:32:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"1942","titulo":"thung life 3","artista":"3pac","tono":"Soll"}
+Completed: 200 message:  Time response: 5 ms Request ID: [4dcb7195-8717-430f-ab37-87b8586c2f0a]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:32:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [dd1230ba-49c2-4635-ae5d-1ecad5e52f96]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 23:32:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [af3c374f-4384-4c61-9d61-fecfa6f9e177]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:32:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [9e5b5a2a-4406-461b-ae07-456165ac4367]
+
+Started PUT /canciones/1365 for :: ::1 at Mon Jun 10 2024 23:33:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"1365","titulo":"sueños de niñes1","artista":"miserables","tono":"sol"}
+Completed: 200 message:  Time response: 5 ms Request ID: [b1230eec-b693-4390-9003-01526ceb6af3]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:33:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [1905508e-ca27-4c12-934c-951b5fc32a56]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 23:41:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 16 ms Request ID: [451d2bc9-1af7-461f-b9cf-fe95832ec0d8]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:41:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [ef6469cd-dcc4-4463-9209-7f8def7989dc]
+
+Started PUT /canciones/1942 for :: ::1 at Mon Jun 10 2024 23:41:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"1942","titulo":"thung life 3","artista":"3pac","tono":"RE"}
+Completed: 200 message:  Time response: 5 ms Request ID: [e63225ca-fc7a-4cfe-866e-76cc8633dcab]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:41:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [572b70fe-a643-43f2-a705-f14c9fc781f1]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 23:45:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 15 ms Request ID: [1ad7b159-3927-4317-94ee-4e3db579159e]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:45:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [5ef1bd8f-4632-45d7-a833-36990a0d09c3]
+
+Started PUT /canciones/1942 for :: ::1 at Mon Jun 10 2024 23:45:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"1942","titulo":"thung life 3","artista":"3pac","tono":"RE"}
+Completed: 200 message:  Time response: 5 ms Request ID: [e3d46261-fe5d-4546-8442-528d4a90692f]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:45:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [e31ec515-622d-420c-a305-c0fa8f7a15b2]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 23:45:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [2cebdf01-e687-4dc3-b2dc-302ff9d41710]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:45:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [36030e74-7750-4672-938b-b364345b1096]
+
+Started PUT /canciones/1365 for :: ::1 at Mon Jun 10 2024 23:45:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"1365","titulo":"sueños de niñes1","artista":"miserables1","tono":"sol"}
+Completed: 200 message:  Time response: 3 ms Request ID: [d8f3c5e8-2d94-4634-90e0-093e5436df68]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:45:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [b1a0c9ab-c2bc-4253-95e1-5858b9c209ac]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 23:45:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 11 ms Request ID: [9b951f49-1702-42fa-8de1-23ecd074da9f]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:45:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [c8b055b2-8929-4594-b6ae-57031989b0ab]
+
+Started PUT /canciones/1942 for :: ::1 at Mon Jun 10 2024 23:46:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"1942","titulo":"thung life 3","artista":"3pac","tono":"RE"}
+Completed: 200 message:  Time response: 5 ms Request ID: [10a3bcc0-5e84-463f-862b-0d1e40a97340]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:46:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [665bfea1-4bb6-4ece-8868-598d296cee7a]
+
+Started PUT //canciones/:1942?cancion=thung%20life%203&artista=3pac&tono=Soll for :: ::ffff:127.0.0.1 at Mon Jun 10 2024 23:49:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [120569b0-9a2b-4f62-97c9-1850089cdc6d]
+
+Started DELETE /canciones/1942 for :: ::1 at Mon Jun 10 2024 23:53:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [d9cffc22-74ce-452e-920a-2351de3f9f76]
+
+Started DELETE /canciones/1942 for :: ::1 at Mon Jun 10 2024 23:53:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [0776207d-d295-423a-9b82-9a0d99f67432]
+
+Started DELETE /canciones/1942 for :: ::1 at Mon Jun 10 2024 23:53:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [492bae03-c3af-4a4f-b3dc-5d68638a72d8]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 23:54:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [2da7a235-8912-4a77-9c9e-6333b07f68c7]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:54:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [25038207-df66-4f7f-b71d-e1647dbc36b9]
+
+Started DELETE /canciones/1942 for :: ::1 at Mon Jun 10 2024 23:54:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [1a7893d6-e743-4885-8b16-fa27dabb1aa8]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:54:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [795b729e-4984-4eb8-90cd-3980ab38723f]
+
+Started GET / for :: ::1 at Mon Jun 10 2024 23:54:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [f14aaabd-4111-47ba-8031-10a9a1f0801a]
+
+Started GET /canciones for :: ::1 at Mon Jun 10 2024 23:54:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [ae8b467c-3dde-4b71-a130-c29ac509ca35]
+
+Started PUT /canciones/1942 for :: ::1 at Tue Jun 11 2024 00:00:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"1942","titulo":"thung life 3","artista":"3pac","tono":"RE"}
+Completed: 200 message:  Time response: 10 ms Request ID: [7cc880eb-6d8a-456a-bb4e-4b5119731805]
+
+Started GET /canciones for :: ::1 at Tue Jun 11 2024 00:00:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [0f4e0209-feaa-4bfc-8737-cd56ef617715]
+
+Started GET / for :: ::1 at Tue Jun 11 2024 00:01:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [cb47b0ab-5a5d-4542-a864-4ca85da1d20a]
+
+Started GET /canciones for :: ::1 at Tue Jun 11 2024 00:01:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [6e79137d-5233-4b68-baf0-9829a3bfdab7]
+
+Started POST /canciones for :: ::1 at Tue Jun 11 2024 00:01:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":9950,"titulo":"cigarro","artista":"los tres","tono":"fa"}
+Completed: 201 message:  Time response: 4 ms Request ID: [e79375e2-094f-4ce1-a9b7-b87da4d431ad]
+
+Started GET /canciones for :: ::1 at Tue Jun 11 2024 00:01:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [b55be80b-d37a-4fdb-bcaa-0f3e356b5baf]
+
+Started PUT /canciones/1942 for :: ::1 at Tue Jun 11 2024 00:01:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"1942","titulo":"thung life 3","artista":"2pac 3","tono":"Sool"}
+Completed: 200 message:  Time response: 3 ms Request ID: [251655aa-74fa-4c1f-a588-83ae193e2fc6]
+
+Started GET /canciones for :: ::1 at Tue Jun 11 2024 00:01:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [0ba1c4df-b488-4cec-8ea3-b84e4b00b81f]
+
+Started PUT /canciones/1942 for :: ::1 at Tue Jun 11 2024 00:02:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"1942","titulo":"xczxcxz","artista":"xcxzc","tono":"REssasd"}
+Completed: 200 message:  Time response: 9 ms Request ID: [6a851b26-f0bd-4319-82f0-cf6cd1c8e47f]
+
+Started GET /canciones for :: ::1 at Tue Jun 11 2024 00:02:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [4ec0e738-fda2-42d3-b24c-4c916114f1a2]
+
+Started DELETE /canciones/1942 for :: ::1 at Tue Jun 11 2024 00:02:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [1be0c1db-ab12-41d4-9c69-c7a98c2ca994]
+
+Started DELETE /canciones/1942 for :: ::1 at Tue Jun 11 2024 00:02:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [7a2a3e3c-fa69-4465-9fad-c75c6dc821d1]
+
+Started DELETE /canciones/9950 for :: ::1 at Tue Jun 11 2024 00:05:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [fab1fc5f-1dff-42a6-afa9-b5f5dad8e3ab]
+
+Started GET /canciones for :: ::1 at Tue Jun 11 2024 00:05:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [fd95c8f5-e10f-4c63-b0b5-73d0136ec374]
+
+Started DELETE /canciones/1942 for :: ::1 at Tue Jun 11 2024 00:05:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [75eba9d4-f90e-4ad3-bc55-49f4f21816ec]
+
+Started GET /canciones for :: ::1 at Tue Jun 11 2024 00:05:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [d7be883b-f31f-430b-a4b9-6f61f640a02b]
+
+Started PUT /canciones/1365 for :: ::1 at Tue Jun 11 2024 00:08:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"1365","titulo":"sueños de niñes 2","artista":"miserables","tono":"sol"}
+Completed: 200 message:  Time response: 11 ms Request ID: [b4ccbbe7-fbf0-4704-9e1b-176a429a6635]
+
+Started GET /canciones for :: ::1 at Tue Jun 11 2024 00:08:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [a4add760-f9a4-44b8-8307-d998cbd0cc52]
+
+Started PUT /canciones/1365 for :: ::1 at Tue Jun 11 2024 00:09:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"1365","titulo":"sueños de niñes 2","artista":"miserables","tono":"sol"}
+Completed: 200 message:  Time response: 10 ms Request ID: [99e0f5b4-0b1b-44de-aeb4-c9589026a96f]
+
+Started GET /canciones for :: ::1 at Tue Jun 11 2024 00:09:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [1e28159e-2091-4577-a441-e8f633528f57]
+
+Started POST /canciones for :: ::1 at Tue Jun 11 2024 00:15:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":6488,"titulo":"He barrido el Sol","artista":"Los tres","tono":"Fa"}
+Completed: 201 message:  Time response: 9 ms Request ID: [cfc6cc01-d1b3-400c-bd84-ffc3d917520d]
+
+Started GET /canciones for :: ::1 at Tue Jun 11 2024 00:15:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [81abdfb8-cf9d-45cc-a1e9-46fad65793e9]
+
+Started PUT /canciones/1365 for :: ::1 at Tue Jun 11 2024 00:16:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"1365","titulo":"sueños de niñes 2","artista":"Los Miserables","tono":"sol"}
+Completed: 200 message:  Time response: 4 ms Request ID: [857e55ed-4d0c-411e-abee-7991a40bb260]
+
+Started GET /canciones for :: ::1 at Tue Jun 11 2024 00:16:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [7661d123-ac3a-44b8-b817-e45024613664]
+
+Started POST /canciones for :: ::1 at Tue Jun 11 2024 00:17:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":672,"titulo":"Mira niñita","artista":"Los jaivas","tono":"Re"}
+Completed: 201 message:  Time response: 3 ms Request ID: [43cae1d5-f07f-435d-a47b-57ce059215ab]
+
+Started GET /canciones for :: ::1 at Tue Jun 11 2024 00:17:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [11cb6e3e-8f3f-41c0-b08d-e68e24461ad8]
